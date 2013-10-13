@@ -59,3 +59,4 @@ set expandtab
 set autoindent
 set smartindent
 set hlsearch
+"test for push after rename
